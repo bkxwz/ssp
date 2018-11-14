@@ -6,7 +6,7 @@
 # https://doc.scrapy.org/en/latest/topics/items.html
 
 import scrapy
-
+#dfafd 做
 
 class SspItem(scrapy.Item):
     # define the fields for your item here like:
